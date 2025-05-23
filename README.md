@@ -1,5 +1,5 @@
 # Veo 3
-Veo 3 Prompt & Demo: [https://aiprompts.video/](https://aiprompts.video/)
+Veo 3 Prompt & Demo: [https://aiprompts.video/veo3](https://aiprompts.video/veo3)
 
 Veo 3 Official Website: [https://deepmind.google/models/veo/](https://deepmind.google/models/veo/)
 
